@@ -4,3 +4,4 @@
 # De ja je
 pwd
 whoami
+ls -la
